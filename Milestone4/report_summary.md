@@ -9,6 +9,10 @@ and report generation.
 
 ---
 
+## Dashboard Link (Streamlit Community Cloud)
+    Live Dashboard: https://fitpulse-health-anomaly-detection-from-fitness-devices-udsv4vk.streamlit.app/
+
+
 ## Dashboard Workflow
 The dashboard performs the following workflow:
 
